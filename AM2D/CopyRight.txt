@@ -1,0 +1,6 @@
+ Copyright, 2009, Hassan Rivaz.  All Rights reserved.
+ Permission granted to download and use AM2D, Kal_LSQ and LSQ for 
+ non-commercial research use only.  No further distribution or copying 
+ permitted without express written consent of Hassan Rivaz. contact: rivaz@jhu.edu 
+ Contact Taylor L. Jordan, Licensing Associate, 
+
